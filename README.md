@@ -13,7 +13,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/serialprint/serialprint/output/github-snake.svg" alt="Snake animation" />
+  <img src="./github-snake.svg" alt="Snake animation" />
 </div>
 
 ---
