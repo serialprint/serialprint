@@ -1,84 +1,126 @@
 <div align="center">
 
-# 👋 Merhaba, Ben SerialPrint!
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=SerialPrint&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Embedded+Systems+Developer;IoT+Enthusiast;Arduino+%26+ESP32+Maker)](https://git.io/typing-svg)
+<!-- Typing Animation -->
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=serialprint&color=blueviolet&style=flat)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+IoT+Solutions;Arduino+%26+ESP32+Expert;Creating+Smart+Devices;Open+Source+Enthusiast)](https://git.io/typing-svg)
+
+<br>
+
+<!-- Social Badges -->
+[![GitHub followers](https://img.shields.io/github/followers/serialprint?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e&color=667eea)](https://github.com/serialprint)
+[![Profile Views](https://komarev.com/ghpvc/?username=serialprint&style=for-the-badge&color=764ba2&labelColor=1a1a2e)](https://github.com/serialprint)
 
 </div>
 
----
+<br>
 
-## 🐍 Contribution Snake
+<!-- About Section -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-<p align="center">
-  <img src="https://github.com/serialprint/serialprint/blob/output/github-snake.svg" alt="snake"/>
-</p>
+```yaml
+name: SerialPrint
+location: Turkey
+current_focus: ESP32 & IoT Projects
+learning: Embedded Linux
+fun_fact: Serial.print() is my favorite debugger!
+```
 
----
+<br>
 
+<!-- Tech Stack -->
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
-
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
+<br>Arduino
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+<br>C
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+<br>C++
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+<br>VS Code
+</td>
+</tr>
+</table>
 </div>
 
----
+<br>
 
-## 📊 GitHub Stats
+<!-- Snake Animation -->
+## 🐍 Contribution Graph
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=serialprint&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serialprint&layout=compact&theme=tokyonight"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/serialprint/serialprint/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/serialprint/serialprint/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/serialprint/serialprint/blob/output/github-snake.svg" width="100%" />
+</picture>
 </div>
 
----
+<br>
 
-## 🔥 Streak Stats
+<!-- Stats Section -->
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=serialprint&theme=tokyonight" alt="Streak"/>
-</p>
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=serialprint&show_icons=true&theme=graywhite&hide_border=true&bg_color=ffffff&title_color=667eea&icon_color=764ba2&text_color=333333" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serialprint&layout=compact&theme=graywhite&hide_border=true&bg_color=ffffff&title_color=667eea&text_color=333333" />
+</div>
 
----
+<br>
 
-## 🏆 Trophies
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=serialprint&theme=graywhite&hide_border=true&background=ffffff&stroke=667eea&ring=764ba2&fire=764ba2&currStreakLabel=667eea" width="60%" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=serialprint&theme=algolia&no-frame=true&row=1&column=6" alt="Trophies"/>
-</p>
+<br>
 
----
-
+<!-- Projects Section -->
 ## 🚀 Featured Projects
 
 <div align="center">
 
-[![esp32-c3-dashboard](https://github-readme-stats.vercel.app/api/pin/?username=serialprint&repo=esp32-c3-dashboard&theme=tokyonight)](https://github.com/serialprint/esp32-c3-dashboard)
-[![Wemos_GC9A01A](https://github-readme-stats.vercel.app/api/pin/?username=serialprint&repo=Wemos_GC9A01A&theme=tokyonight)](https://github.com/serialprint/Wemos_GC9A01A)
+[![esp32-c3-dashboard](https://github-readme-stats.vercel.app/api/pin/?username=serialprint&repo=esp32-c3-dashboard&theme=graywhite&hide_border=true&bg_color=ffffff&title_color=667eea&icon_color=764ba2)](https://github.com/serialprint/esp32-c3-dashboard)
+[![Wemos_GC9A01A](https://github-readme-stats.vercel.app/api/pin/?username=serialprint&repo=Wemos_GC9A01A&theme=graywhite&hide_border=true&bg_color=ffffff&title_color=667eea&icon_color=764ba2)](https://github.com/serialprint/Wemos_GC9A01A)
 
 </div>
 
----
+<br>
 
-## 🎯 About Me
-
-- 🔭 ESP32 ve IoT projeleri üzerinde çalışıyorum
-- 🌱 Embedded Linux öğreniyorum  
-- ⚡ Fun fact: `Serial.print()` en sevdiğim debug yöntemi!
-
----
+<!-- Connect Section -->
+## 🤝 Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-serialprint-black?style=for-the-badge&logo=github)](https://github.com/serialprint)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/serialprint)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/serialprint)
 
+</div>
+
+<br>
+
+<!-- Footer -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
 </div>
