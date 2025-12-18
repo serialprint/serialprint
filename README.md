@@ -44,7 +44,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=serialprint&theme=tokyonight" alt="Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=serialprint&theme=tokyonight" alt="Streak"/>
 </p>
 
 ---
@@ -52,7 +52,7 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=serialprint&theme=tokyonight&no-frame=true&row=1&margin-w=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=serialprint&theme=algolia&no-frame=true&row=1&column=6" alt="Trophies"/>
 </p>
 
 ---
